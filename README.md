@@ -2,12 +2,18 @@
 
 This project can help user to see all customers accessed to the system and also can see the details of each customer. and analytics of the system.
 
-## Features
+## tools and technologies used
 
 - **Next.ts** – A React framework for building fast and scalable applications.
 - **TypeScript** – Static typing for better developer experience and code quality.
 - **PNPM** – Fast, disk space-efficient package manager.
 - **Node.js 20** – Ensuring compatibility with the latest Node.js features.
+
+## features
+
+- **Landing page** – showing starting page for helping user to understand the system.
+- **Detailed Visit Analysis:** – Analyze customer visits to your website or application.
+- **CRM Data List** – View a list of customers with their details.
 
 ## Getting Started
 
